@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World. Linked to JIRA</p>'; ?> 
+ <?php echo '<p>Hello World. Jira + GitHub </p>'; ?> 
  </body>
 </html>
